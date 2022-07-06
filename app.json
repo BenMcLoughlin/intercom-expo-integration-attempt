@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "intercom-expo",
+    "slug": "intercom-expo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
